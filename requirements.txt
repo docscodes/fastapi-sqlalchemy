@@ -3,3 +3,4 @@ pydantic
 sqlalchemy
 asyncio
 mypy
+aiosqlite
